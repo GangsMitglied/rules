@@ -27,7 +27,7 @@
 ### §2. Erstattung von Gütern
 
 1. Das Erstatten von Gütern wird im Einzelfall entschieden.<br>
-   Verluste durch Eigenverschulden oder Ausfalle, welche nicht durch SrinoNetwork verursacht wurden, werden nicht erstattet.
+   Verluste durch Eigenverschulden oder Ausfalle, welche nicht durch Butterfly verursacht wurden, werden nicht erstattet.
 
 ### §3. Verhalten mit anderen Spielern
 
@@ -44,7 +44,7 @@
 
 <br>
 Unwissenheit schützt vor Strafe nicht.<br>
-Die Regeln können jederzeit von der Leitung des SrinoNetworks aktualisiert und geändert werden.<br>
+Die Regeln können jederzeit von der Leitung des Butterfly aktualisiert und geändert werden.<br>
 Teammitglieder dürfen nach Absprache mit der Leitung auch Bestrafungen außerhalb dieser Regeln vergeben.<br>
 Das Regelwerk unterliegt dem geistigen Eigentum von SrinoNetwork. Die Beitragenden behalten sich das Recht vor, rechtliche Schritte bei Verstößen einzuleiten.
 
@@ -55,7 +55,7 @@ Das Regelwerk unterliegt dem geistigen Eigentum von SrinoNetwork. Die Beitragend
 1. Es wird ein freundlicher, respektvoller, höfflicher & sozialer Umgang miteinander gefordert.
 2. Beleidigung und Provokation wird nicht geduldet.
 3. Rassismus und Nationalsozialismus wird ohne Diskussion permanent gebannt.<br>
-   Bei Interesse, über dieses zu schreiben (bereits gebannt), gerne bei (Discord Tag: curano) melden.
+   Bei Interesse, über dieses zu schreiben (bereits gebannt), gerne bei (Discord Tag: blacknexus) melden.
 4. Private Diskussionen werden bitte nicht in öffentlichen Chats geführt.
 5. Die Veröffentlichung privater Informationen anderer Benutzer ist untersagt und führt zu einer permanenten Ban.<br>
    Zusätzlich wird der Vorfall bei Discord gemeldet und sämtliche Beweise werden bereitwillig, falls benötigt, an die Behörden weitergegeben.
@@ -78,6 +78,6 @@ Das Regelwerk unterliegt dem geistigen Eigentum von SrinoNetwork. Die Beitragend
 
 <br>
 Unwissenheit schützt vor Strafe nicht.<br>
-Die Regeln können jederzeit von der Leitung des SrinoNetworks aktualisiert und geändert werden.<br>
+Die Regeln können jederzeit von der Leitung des Butterfly aktualisiert und geändert werden.<br>
 Teammitglieder dürfen nach Absprache mit der Leitung auch Bestrafungen außerhalb dieser Regeln vergeben.<br>
-Das Regelwerk unterliegt dem geistigen Eigentum von SrinoNetwork. Die Beitragenden behalten sich das Recht vor, rechtliche Schritte bei Verstößen einzuleiten.
+Das Regelwerk unterliegt dem geistigen Eigentum von Butterfly. Die Beitragenden behalten sich das Recht vor, rechtliche Schritte bei Verstößen einzuleiten.
